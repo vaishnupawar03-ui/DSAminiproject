@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ranub/dsamini",
-      "program": "c:/Users/ranub/dsamini/build/Debug/outDebug",
+      "cwd": "c:/Users/ranub/OneDrive/Desktop/dsamini",
+      "program": "c:/Users/ranub/OneDrive/Desktop/dsamini/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
